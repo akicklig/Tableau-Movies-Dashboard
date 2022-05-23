@@ -1,7 +1,7 @@
 # Tableau-Movies-Dashboard
 Created a Tableau Dashboard exploring IMDb movies data.
 
-This dashboard demonstrates an alternative approach to the similar [R Shiny Application here](https://github.com/akicklig/R-Shiny-Movies-App) but with another Business Intellgience tool: Tableau.
+This dashboard demonstrates an alternative approach to the [R Shiny Application here](https://github.com/akicklig/R-Shiny-Movies-App) with another Business Intellgience tool: Tableau.
 
 # Exploring Four Decades of Film through the IMDb Movies Database
 
